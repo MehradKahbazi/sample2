@@ -1,10 +1,3 @@
-// const numbers = [12, 17, 15, 12, 19];
-
-// const oddNumbers = numbers.filter(item => item %2 !== 0)
-
-
-
-// console.log(oddNumbers);
 
 const staff = [
     { sName: 'Ali', scores: [13, 17, 18, 19] },
