@@ -10,3 +10,8 @@ staff.map(item => {
     const avg = item.scores.reduce((acc, score) => acc + score)/item.scores.length;
     console.log(item.sName, ':', avg);
 })
+
+staff.map(item => {
+    const avg = item.scores.reduce((acc, score) => acc + score)/item.scores.length;
+    console.log(item.sName, ':', avg);
+})
